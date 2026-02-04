@@ -2,18 +2,18 @@
 
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=300&section=header&text=Skywalker%20Intelligence&fontSize=70&fontColor=ffffff&fontAlign=50&desc=System%20Online&descSize=20&descAlign=50&animation=fadeIn" alt="Skywalker Intelligence System Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=300&section=header&text=Skywalker%20Intelligence%20System&fontSize=50&fontColor=ffffff&fontAlign=50&desc=Architecting%20the%20Future%20of%20Digital%20Intelligence&descSize=20&descAlign=50&animation=fadeIn" alt="Skywalker Intelligence System Banner" width="100%"/>
   
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Architecting+the+Future+of+Digital+Intelligence;High-Performance+Backend+Engineering;Interactive+Frontend+Experiences;Cloud+Native+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&pause=1000&color=28E7FF&center=true&vCenter=true&width=700&lines=Architecting+the+Future+of+Digital+Intelligence;High-Performance+Backend+Engineering;Interactive+Frontend+Experiences;Cloud+Native+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/skywalkerIntelligenceSystem"><img src="https://img.shields.io/badge/Organization-Verified-blue?style=for-the-badge&logo=github" alt="Verified Org"></a>
-  <a href="mailto:contact@skywalker.system"><img src="https://img.shields.io/badge/Contact-Us-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Us"></a>
+  <a href="mailto:skywalkerlknw@gmail.com"><img src="https://img.shields.io/badge/Contact-Us-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Us"></a>
 </p>
 
 ---
@@ -30,9 +30,16 @@ Our expertise lies at the intersection of **High-Performance Backend Engineering
 
 <div align="center">
 
-|                                                                                                 **GitHub Stats**                                                                                                  |                                                                                  **Streak Stats**                                                                                   |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github-readme-stats.vercel.app/api?username=skywalkerIntelligenceSystem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" height="180"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=skywalkerIntelligenceSystem&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" height="180"/> |
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=skywalkerIntelligenceSystem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=skywalkerIntelligenceSystem&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
