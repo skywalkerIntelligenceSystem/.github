@@ -49,6 +49,8 @@ When you engage with Skywalker Intelligence System, you are not buying a product
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermradulsharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" width="60%"/>
+
 ## :trophy: Our Blueprint: Engineering Milestones
 
 We measure success not in lines of code, but in **Scale**, **Performance**, and **Impact**.
