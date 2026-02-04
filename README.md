@@ -49,7 +49,7 @@ When you engage with Skywalker Intelligence System, you are not buying a product
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermradulsharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" width="60%"/>
+<img src="https://raw.githubusercontent.com/skywalkerIntelligenceSystem/skywalker_config/master/github-metrics.svg" alt="Metrics" width="60%"/>
 
 ## :trophy: Our Blueprint: Engineering Milestones
 
