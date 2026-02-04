@@ -49,7 +49,8 @@ When you engage with Skywalker Intelligence System, you are not buying a product
 
 ---
 
-<img src="https://raw.githubusercontent.com/skywalkerIntelligenceSystem/skywalker_config/master/github-metrics.svg" alt="Metrics" width="60%"/>
+<img src="https://raw.githubusercontent.com/skywalkerIntelligenceSystem/skywalker_config/master/profile/stats.svg" alt="Metrics" width="100%"/>
+<img src="https://raw.githubusercontent.com/skywalkerIntelligenceSystem/skywalker_config/master/profile/top-langs.svg" alt="Top Languages" width="100%"/>
 
 ## :trophy: Our Blueprint: Engineering Milestones
 
