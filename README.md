@@ -4,7 +4,7 @@
 
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=300&section=header&text=Skywalker%20Intelligence%20System&fontSize=50&fontColor=ffffff&fontAlign=50&desc=Architecting%20the%20Future%20of%20Digital%20Intelligence&descSize=20&descAlign=50&animation=fadeIn" alt="Skywalker Intelligence System Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=300&section=header&text=Skywalker%20Intelligence%20System&fontSize=50&fontColor=ffffff&fontAlign=50&desc=Architecting%20the%20Future%20of%20Digital%20Intelligence&descSize=18&descAlign=50&animation=fadeIn" alt="Skywalker Intelligence System Banner" width="100%"/>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&pause=1000&color=28E7FF&center=true&vCenter=true&width=700&lines=Architecting+the+Future+of+Digital+Intelligence;High-Performance+Backend+Engineering;Interactive+Frontend+Experiences;Cloud+Native+Solutions" alt="Typing SVG" />
@@ -48,8 +48,6 @@ When you engage with Skywalker Intelligence System, you are not buying a product
 **System Online. Directives Loaded. Ready to Architect.**
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skywalkerIntelligenceSystem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" width="60%"/>
 
 ## :trophy: Our Blueprint: Engineering Milestones
 
