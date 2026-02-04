@@ -1,8 +1,10 @@
+<!-- markdownlint-disable MD033 -->
+
 # :milky_way: Skywalker Intelligence System
 
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=300&section=header&text=Skywalker%20Intelligence%20System&fontSize=50&fontColor=ffffff&fontAlign=40&desc=Architecting%20the%20Future%20of%20Digital%20Intelligence&descSize=20&descAlign=80&animation=fadeIn" alt="Skywalker Intelligence System Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=300&section=header&text=Skywalker%20Intelligence%20System&fontSize=50&fontColor=ffffff&fontAlign=50&desc=Architecting%20the%20Future%20of%20Digital%20Intelligence&descSize=20&descAlign=50&animation=fadeIn" alt="Skywalker Intelligence System Banner" width="100%"/>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&pause=1000&color=28E7FF&center=true&vCenter=true&width=700&lines=Architecting+the+Future+of+Digital+Intelligence;High-Performance+Backend+Engineering;Interactive+Frontend+Experiences;Cloud+Native+Solutions" alt="Typing SVG" />
@@ -16,15 +18,15 @@
 
 ---
 
-### :atom_symbol: The Skywalker Philosophy: Architecting Intelligence
+## :atom_symbol: The Skywalker Philosophy: Architecting Intelligence
 
-**"In a digital world drowning in noise, we engineer the signal."**
+> **"In a digital world drowning in noise, we engineer the signal."**
 
 At **Skywalker Intelligence System**, we fundamentally believe that software is not merely a utility—it is the central nervous system of modern civilization. We exist to reject the mediocre, the temporary, and the fragile. Our mandate is to architect **Digital Sovereignty** for organizations that demand absolute precision, scalability, and intelligence.
 
 We are not a traditional agency. We are a **High-Performance R&D Laboratory**.
 
-#### :dna: Our DNA: The Triad of Excellence
+### :dna: Our DNA: The Triad of Excellence
 
 Our work is governed by three immutable laws that define every line of code we write and every system we deploy:
 
@@ -37,7 +39,7 @@ Our work is governed by three immutable laws that define every line of code we w
 3. **Unbreakable Infrastructure (Cloud Sovereignty)**:
    Code without a home is just text. We adhere to the principles of **Infrastructure as Code (IaC)** and **Immutable Deployments**. Our solutions are hardened on the forge of modern cloud providers (AWS, Azure, GCP). We architect self-healing, auto-scaling environments that treat server failure not as an emergency, but as a non-event.
 
-#### :telescope: The Vision Forward
+### :telescope: The Vision Forward
 
 We are here to solve the **"Complexity Paradox"**: As technology becomes more advanced, it typically becomes harder to use. We reverse this entropy. We absorb the complexity so the user doesn't have to.
 
@@ -49,7 +51,7 @@ When you engage with Skywalker Intelligence System, you are not buying a product
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skywalkerIntelligenceSystem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" width="60%"/>
 
-### :trophy: Our Blueprint: Engineering Milestones
+## :trophy: Our Blueprint: Engineering Milestones
 
 We measure success not in lines of code, but in **Scale**, **Performance**, and **Impact**.
 
@@ -98,8 +100,6 @@ We measure success not in lines of code, but in **Scale**, **Performance**, and 
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-<br/>
 
 <div align="center">
   <sub>© 2026 Skywalker Intelligence System. All systems operational.</sub>
